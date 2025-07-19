@@ -34,7 +34,7 @@ Download Python
 Installation
 Clone the repository:
 
-git clone https://github.com/Quantum-2416/Phone-book-repo.git
+git clone https://github.com/Quantum-2416/Phone-book.git
 cd Phone-book-repo
 
 No external Python libraries are strictly required beyond the standard library (Tkinter and JSON are built-in). However, if you were to add more features requiring external libraries, you would typically install them like this:
